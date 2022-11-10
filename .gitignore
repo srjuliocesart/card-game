@@ -5,4 +5,5 @@ client/.babelrc
 client/index.html
 client/LICENSE
 client/README.md
+client/webpack
 node_modules
