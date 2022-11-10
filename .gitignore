@@ -5,3 +5,4 @@ client/.babelrc
 client/index.html
 client/LICENSE
 client/README.md
+node_modules
